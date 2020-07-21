@@ -1,0 +1,21 @@
+1.createMultiplyTable(start, end)
+P：10min
+D: 10min
+
+2.isValid(start, end)
+P：10min
+D: 10min
+
+3.isInRange(number)
+P：5min
+D: 5min
+
+4.generateAllLines(start, end)
+P：20min
+D: 23min
+C: 返回的值表示为arr.toString()，输出的字符串带有","符号
+A: 学习数组转换成字符串的方法，可以用arr.join('')语法，就不会出现“，”符号。
+
+5.generateEachLines(lineStart, lineEnd)
+P：5min
+D: 5min
